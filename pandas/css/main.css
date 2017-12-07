@@ -1,0 +1,62 @@
+img {
+    width: 100% ;
+}
+
+.main {
+    background-color: #f48c68;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 50px;
+    text-align: right;
+}
+
+.panda-principal {
+    filter: grayscale(100%);
+    background-image: url(../assets/img/uno.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+}
+
+.pinky-line {
+    height: 20px;
+    background-color:  #f48c68;
+}
+
+.green-text {
+    padding: 40px;
+    background-color: greenyellow  ;
+}
+.green-text .col-xs-4 {
+    background-color:  #f48c68;
+    color: white;
+    padding: 20px;
+}
+
+.panda-dos {
+    filter: grayscale(100%);
+    background-image: url(../assets/img/dos.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+h2 {
+    text-align: center;
+    color: white;
+}
+.panda-galery {
+  border: 10px solid white;
+  margin: 0px auto;
+  width: 30%;
+  float: left;
+}
+
+.panda-tres{
+    filter: grayscale(100%);
+    background-image: url(../assets/img/tres.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+}

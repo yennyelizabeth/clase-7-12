@@ -37,7 +37,8 @@ md laptops
 768 a 791  -->sm ( tablet )
 792 a      -->md (laptop)
 
-
+offset
+hace simulacion que es una columna, pero da un margin left 
 
 
 
